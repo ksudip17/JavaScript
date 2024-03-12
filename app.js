@@ -1,5 +1,5 @@
 let todo = [];
-
+// Js for Todo app
 
 let req = prompt("Please enter your request");
 
